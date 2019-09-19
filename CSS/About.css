@@ -1,0 +1,88 @@
+@charset "UTF-8";
+body {
+        background-image: url(../images/edited.jpg);
+        background-position: center;
+        background-attachment: fixed;
+}
+a:link, a:visited { color: #fede63;  }
+a:focus, a:hover, a:active { color: rgb(211, 160, 116);  }
+header {
+    color: #fede63;
+    text-align: center;
+    margin-top: 0%;
+    text-decoration: none;  
+}
+.top {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #ffff;
+}
+.present {
+    background-color: #4b4e5e;
+    border-radius: 20%;
+}
+.top h6 {
+    margin: -1% 0% 2% 43%;
+    color: #ffff;
+}
+a {
+    text-decoration: none;
+    margin: 5% 10% 0% 0%;
+    font-family: cursive;
+    color: #fede63;
+}
+main {
+    color: #ffff;
+}
+.me {
+    margin: 0% 5% 0% 10%;
+    font-family: cursive;
+    height: 300px;
+    width: 300px;
+    line-height: 200%;
+    color: #ffff;
+    float: left;
+}
+.me h2 {
+    margin-left: 3%;
+}
+.address {
+    background-color: #2b2a27;
+}
+.details {
+    float: left;
+    font-family: cursive;
+    color: #fede63;
+    margin-right: 5%;
+}
+.qualities {
+    font-family: cursive;
+    color: #fede63;
+    margin-top: 1%;
+}
+.no-float {
+    float: both;
+    position: absolute;
+    margin: 25% 0% 0% 10%;
+    text-align: center;
+    font-family: cursive;
+}
+span {
+    color:#e70c04ea;
+}
+.ending {
+    position: absolute;
+    float: both;
+    margin: 33% 0% 0% 37%;
+    text-align: center;
+}
+.top h6 {
+    text-align: center;
+    margin-right: 43%
+}
+.teamwork {
+    float: left;
+    width: 300px;
+    height: 300px;
+    border-radius: 10% 10% 10% 10%;
+}

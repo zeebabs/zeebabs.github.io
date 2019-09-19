@@ -1,0 +1,42 @@
+@charset "UTF-8";
+body {
+    background-image: url(../images/edited.jpg);
+    background-position: center;
+    background-attachment: fixed;
+}
+a:link, a:visited { color: #fede63;  }
+a:focus, a:hover, a:active { color: rgb(211, 160, 116);  }
+header {
+color: #fede63;
+text-align: center;
+margin-top: 0%;
+text-decoration: none;  
+}
+.top {
+text-align: center;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: #ffff;
+}
+.present {
+background-color: #4b4e5e;
+border-radius: 20%;
+}
+.top h6 {
+margin: -1% 0% 2% 43%;
+color: #ffff;
+}
+a {
+text-decoration: none;
+margin: 5% 10% 0% 0%;
+font-family: cursive;
+color: #fede63;
+}
+.top h6 {
+    text-align: center;
+    margin-right: 43%
+}
+main {
+    color: #fede63;
+    text-align: center;
+    font-family: cursive;
+}

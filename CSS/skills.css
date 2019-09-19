@@ -1,0 +1,84 @@
+@charset "UTF-8";
+body {
+    background-image: url(../images/edited.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    font-family: cursive;  
+}
+a:link, a:visited { color: #fede63;  }
+a:focus, a:hover, a:active { color: rgb(211, 160, 116);  }
+header {
+    color: #fede63;
+    text-align: center;
+    margin-top: 0%;
+    text-decoration: none;
+   
+}
+.present {
+    background-color: #4b4e5e;
+    border-radius: 20%;
+}
+.top {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #ffff;
+    margin-bottom: 3.5%;
+}
+.top h6 {
+    margin: -1% 0% 2% 43%;
+    color: #ffff;
+}
+a {
+    text-decoration: none;
+    margin: 5% 10% 0% 0%;
+    font-family: cursive;
+    color: #fede63;
+}
+.upper {
+    float: left;
+    margin: 0% 0% 0% 10%;
+}
+.right {
+    float: left;
+    margin: 0% 0% 0% 5%;
+}
+.lower {
+    position: absolute;
+    margin: 15% 0% 0% 10%;
+}
+span {
+    color: #cc3631;
+}
+img {
+    float: left;
+    width: 150px;
+    height: 150px;
+    margin-top: 2%;
+}
+.first {
+    border-radius: 20% 0% 0% 20%;
+    margin-right: 1ch;
+}
+.last {
+    border-radius: 0% 20% 20% 0%;
+    margin-left: 1ch;
+}
+.no-float {
+    float: both;
+    position: absolute;
+    margin: 33% 0% 0% 10%;
+    text-align: center;
+    font-family: cursive;
+}
+.ending {
+    position: absolute;
+    float: both;
+    margin: 41% 0% 0% 37%;
+    text-align: center;
+}
+main {
+    color: #fede63;
+}
+footer {
+    color: #ffff;
+}
